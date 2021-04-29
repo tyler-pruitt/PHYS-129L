@@ -1,0 +1,6 @@
+p0(0) = probability of zero staying zero = 0.1952662721893491
+p0(1) = probability of one turning into zero = 0.8313008130081301
+p1(0) = probability of zero turning into one = 0.8047337278106509
+p1(1) = probability of one staying one = 0.16869918699186992
+maximum likelihood for p0(0) = 0.1952662721893491
+maximum likelihood for p0(1) = 0.8313008130081301
