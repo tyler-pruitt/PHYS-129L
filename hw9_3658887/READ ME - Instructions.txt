@@ -1,0 +1,15 @@
+Instructions:
+
+1) Keep Lorentz.py in the same directory as ex1_hw9_3658887.py
+2) You can run the python file ex1_hw9_3658887.py with a document, such as inputdata.txt, in the following way:
+
+python3 ex1_hw9_3658887.py inputdata.txt
+ 
+3) [Optional] For easier access with ex1_hw9_3658887.py,  you also can store the data for the two particles four momenta in a text file named 'test_data.txt' in the following format:
+
+E1,px1,py1,pz1
+E2,px2,py2,pz2
+
+[Warning] Having information in a file named 'test_data.txt' will override information being passed into the python file ex1_hw9_3658887.py, such as in Instruction 2. Thus, Instruction 3 will override Instruction 2.
+
+4) [Note] Python file ex1_trial2.py is a secondary equivalent file to ex1_hw9_3658887.py but through a different but similar approach. If ex1_hw9_3658887.py fails, please try ex1_trial2.py. Thank you.
